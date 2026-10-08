@@ -19,6 +19,6 @@ An open-data Python workflow recreating scenario-based dam-breach screening for 
 
 ### 📬 Connect with Me
 * 💼 Connect on [LinkedIn](https://linkedin.com)
-* 📧 Reach out via Email: c.j.edeh25@gmail.com
+* 📧 Reach out via Email: c.j.edeh25@gmail.com or  edehchiomajoy@gmail.com
 
 Create profile landing page
